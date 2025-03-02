@@ -8,7 +8,7 @@ const bcrypt = require("bcryptjs");
 
 const app = express();
 const PORT = 5000;
-const client = new MongoClient( "mongodb+srv://siddarth:siddarth123@cluster0.bxdj5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0");
+const client = new MongoClient( "mongodb+srv://<username>:<password>@cluster0.bxdj5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0");
 
 // Middleware
 app.use(express.json());
