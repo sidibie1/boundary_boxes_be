@@ -1,0 +1,19 @@
+{
+  "name": "boundary_boxes_be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mainFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.14.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
