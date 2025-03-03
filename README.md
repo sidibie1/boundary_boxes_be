@@ -6,4 +6,6 @@ Step 3: Take pull of latest code using git pull from the main branch
 
 Step 4: Run npm install once to install all the packages
 
-Step 5: Use node mainFile.js command to start the backend server
+Step 5: Update username and password for Mongo DB Client
+
+Step 6: Use node mainFile.js command to start the backend server
